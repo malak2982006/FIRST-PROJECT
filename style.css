@@ -1,0 +1,24 @@
+/*styles for about */
+#about{background-color:rgb(247, 247, 247);}
+#about h1{color:deeppink}
+#about h2{color:hotpink}
+
+/*styles for index */
+#index {background-color: rgb(255, 207, 235);}
+#index h1{color:deeppink}
+#index h2{color: deeppink;}
+
+/*styles for login*/
+#login-header{background-color:rgb(0, 0, 0);}
+#login-header h1{color: deeppink;}
+#main-nav{color: deeppink;}
+#main-nav a{color: deeppink;}
+#login-main{flex-direction: column; align-items: center;}
+#login-main h2{color: rgb(0, 0, 0);}
+#login-form{background-color: rgb(255, 0, 128);}
+#form-group label{color: rgb(0, 0, 0);}
+.form-group input[type="text"]
+.form-group input[type="password"]
+#login-form button [type="submit"]{background-color: deeppink; color: black;}
+#login-form button [type="submit"]:hover{background-color: deeppink);}
+#main-footer{background-color: deeppink; color: black;}
