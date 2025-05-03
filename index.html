@@ -2,7 +2,7 @@
 <HEAD>
 <title>LOGIN-GLOW HUB</title>
 <link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css2?family=quicksand&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=quicksand&display=swap, rel="stylesheet">
 </HEAD>
 <body>
 <header id="login-header">
@@ -22,10 +22,12 @@
   <br>
 <div class="form-group"><lable for="password">PASSWORD:</lable> <INPUT TYPE="password" id="password" name="password" required></div>
   <br>
-<lable>gender:</lable>
-  <input type="radio" name="gender" value="female"><br>
-  <input type="radio" name="gender" value="male"><br>
+  <div class="form-group">
+<lable>gender:</lable><br>
+  <input type="radio" id="female" name="gender" value="female"><label for="female">female</label><br>
+  <input type="radio" id="male" name="gender" value="male"> <label for="male">male</label><br>
 <input type="submit" value="login">
+  </div>
 </form>
 </main>
 <hr>
