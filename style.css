@@ -15,7 +15,7 @@
 #main-nav a{color: hotpink;}
 #login-main{flex-direction: column; align-items: center;}
 #login-main h2{color: rgb(0, 0, 0);}
-#login-form{background-color: rgb(255, 0, 128);}
+#login-form{background-color: hotpink;}
 #form-group label{color: rgb(0, 0, 0);}
 .form-group input[type="text"]
 .form-group input[type="password"]
