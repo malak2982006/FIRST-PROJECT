@@ -3,12 +3,12 @@
 #about h1{color:deeppink}
 #about h2{color:hotpink}
 
-/*styles for index */
-#index {background-color: rgb(255, 207, 235);}
-#index h1{color:deeppink}
-#index h2{color: deeppink;}
+/*styles for home */
+#home {background-color: rgb(255, 207, 235);}
+#home h1{color:deeppink}
+#home h2{color: deeppink;}
 
-/*styles for login*/
+/*styles for index*/
 #login-header{background-color:rgb(0, 0, 0);}
 #login-header h1{color: deeppink;}
 #main-nav{color: deeppink;}
